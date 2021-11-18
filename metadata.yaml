@@ -1,0 +1,44 @@
+_repo: The-Pioneer_66618
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Terry, W. E.
+    aliases:
+    - Terry, Bill
+    - Terry, Willis E.
+    birthdate: 1921
+    deathdate: 1992
+    gutenberg_agent_id: '34265'
+    url: http://www.gutenberg.org/2009/agents/34265
+creator:
+  author:
+    agent_name: Cox, Irving E.
+    alias: Cox, Irving England, Jr.
+    birthdate: 1917
+    deathdate: 2001
+    gutenberg_agent_id: '31427'
+    url: http://www.gutenberg.org/2009/agents/31427
+description: ''
+gutenberg_issued: '2021-10-27'
+identifiers:
+  gutenberg: '66618'
+language: en
+pgterms:marc905: 20210313061801cox
+pgterms:marc906: '1955'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: United States :Greenleaf Publishing Company,1955.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Space travelers -- Fiction'
+- !lcsh 'Parapsychology -- Fiction'
+- !lcsh 'Conflict of generations -- Fiction'
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- GITenberg
+title: The Pioneer
+url: http://www.gutenberg.org/ebooks/66618
